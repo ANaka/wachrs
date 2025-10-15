@@ -206,3 +206,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 wachr_demo_data.csv
+.DS_STORE
