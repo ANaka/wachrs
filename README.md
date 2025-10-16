@@ -22,7 +22,7 @@ $$R(I, \lambda) = A_{max} \frac{I_{eff}(I, \lambda)^n}{I_{eff}(I, \lambda)^n + K
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/ANaka/wachrs.git
 cd wachr_public_code
 
 # Create virtual environment and install dependencies
