@@ -1,6 +1,6 @@
 
 ## Action Surface Fitting Code
-This repository contains the Python implementation for the "action surface" analysis described in the manuscript "WAChRs are excitatory opsins sensitive to indoor lighting." The code facilitates the fitting of optogenetic response data to a function of both light intensity and wavelength.
+This repository contains the Python implementation for the "action surface" analysis described in the manuscript [WAChRs are excitatory opsins sensitive to indoor lighting](https://www.biorxiv.org/content/10.1101/2025.09.12.675947v1.full). The code facilitates the fitting of optogenetic response data to a function of both light intensity and wavelength.
 
 ## The Action Surface Model
 Our model characterizes an opsin's activation profile across a two-dimensional input space of irradiance (intensity) and wavelength (spectrum). It achieves this by modulating the dose-response relationship with a spectral sensitivity function.
